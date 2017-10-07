@@ -1,9 +1,9 @@
 input[type=text], input[type=password] {
     width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
+    padding: 12em 20em;
+    margin: 8em 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1em solid #ccc;
     box-sizing: border-box;
 }
 
@@ -11,8 +11,8 @@ input[type=text], input[type=password] {
 button {
     background-color: #4CAF50;
     color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
+    padding: 14em 20em;
+    margin: 8em 0;
     border: none;
     cursor: pointer;
     width: 100%;
@@ -22,7 +22,7 @@ button {
 }
 
 .cancelbtn {
-    padding: 14px 20px;
+    padding: 14em 20em;
     background-color: #f44336;
 }
 
@@ -31,12 +31,12 @@ button {
     width: 50%;
 }
 .firstcontainer, .secondcontainer {
-    margin-top: 40%;
+    margin-top: 47em;
     background-color: #eee;
 }
 /*padding to container elements */
 .container {
-    padding: 16px;
+    padding: 16em;
 }
 
 /* The Modal (background) */
@@ -57,17 +57,17 @@ button {
 .modal-content {
     background-color: #fefefe;
     margin: 5% auto 15% auto; 
-    border: 1px solid #888;
+    border: 1em solid #888;
     width: 80%; 
 }
 
 
 .close {
     position: absolute;
-    right: 35px;
-    top: 15px;
+    right: 35em;
+    top: 15em;
     color: #000;
-    font-size: 40px;
+    font-size: 40em;
     font-weight: bold;
 }
 
