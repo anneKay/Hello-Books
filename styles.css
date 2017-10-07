@@ -27,7 +27,10 @@ button {
     float: left;
     width: 50%;
 }
-
+.firstcontainer{
+    margin-top: 10%;
+    background-color: #eee;
+}
 /*padding to container elements */
 .container {
     padding: 16px;
