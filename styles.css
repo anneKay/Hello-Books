@@ -21,15 +21,6 @@ button {
     width: 40%;
     position: relative;
 }
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
-}
 
 .cancelbtn {
     padding: 14px 20px;
@@ -47,6 +38,10 @@ button {
 /*padding to container elements */
 .container {
     padding: 16px;
+}
+h5, h4 {
+    font-size: 18px;
+    padding: 6px;
 }
 
 /* The Modal (background) */
