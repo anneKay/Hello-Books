@@ -30,8 +30,8 @@ button {
     float: left;
     width: 50%;
 }
-.firstcontainer{
-    margin-top: 10%;
+.firstcontainer, .secondcontainer {
+    margin-top: 40%;
     background-color: #eee;
 }
 /*padding to container elements */
