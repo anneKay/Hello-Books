@@ -83,3 +83,7 @@ button {
         width: 100%;
     }
 }
+hr{
+  background-color: #eee;
+  height: 0.09em;
+}
