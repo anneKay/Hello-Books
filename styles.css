@@ -17,6 +17,9 @@ button {
     cursor: pointer;
     width: 100%;
 }
+.img-fluid{
+    width: 40%;
+}
 
 .cancelbtn {
     padding: 14px 20px;
