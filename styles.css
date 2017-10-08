@@ -26,6 +26,12 @@ button {
     padding: 14px 20px;
     background-color: #f44336;
 }
+.footer{
+    font-size: 20px;
+}
+#new-task{
+    margin: 5px 10px 5px 5px;
+}
 
 .cancelbtn,.signupbtn {
     float: left;
